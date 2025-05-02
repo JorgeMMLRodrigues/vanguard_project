@@ -162,15 +162,15 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 * **Email**: modris.opelts@gmail.com
 * **GitHub**: https://github.com/Modris12
 
-* * **Author**: JorgeMMLRodrigues
+* **Author**: JorgeMMLRodrigues
 * **Email**: jorgemmlrodrigues@gmail.com
 * **GitHub**: https://github.com/JorgeMMLRodrigues
 
-* * **Author**: 
+* **Author**: 
 * **Email**: atefah.hassani@gmail.com
 * **GitHub**: 
 
-* * **Author**:
+* **Author**:
 * **Email**: michelemontalvo@outlook.com
 * **GitHub**: 
 
