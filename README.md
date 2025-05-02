@@ -106,6 +106,7 @@ Statistical results reject H1 for both tests, indicating the new design did not 
 
 ### Prerequisites
 
+* Anaconda env 
 * Python 3.8+
 * pandas, seaborn, matplotlib.pyplot, scipy.stats, scipy.stats
 
