@@ -6,11 +6,7 @@
 * [Repository Structure](#repository-structure)
 * [Data Description](#data-description)
 * [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
-* [A/B Test Design & Results](#ab-test-design--results)
 
-  * [Funnel Conversion Rates](#funnel-conversion-rates)
-  * [Anomaly Rates](#anomaly-rates)
-  * [Statistical Tests](#statistical-tests)
 * [Hypotheses](#hypotheses)
 * [Recommendations & Next Steps](#recommendations--next-steps)
 * [Getting Started](#getting-started)
