@@ -159,7 +159,19 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 ## Contact
 
 * **Author**: Modris12
-* **Email**: [your.email@example.com](mailto:your.email@example.com)
-* **GitHub**: [Modris12](https://github.com/Modris12)
+* **Email**: modris.opelts@gmail.com
+* **GitHub**: https://github.com/Modris12
+
+* * **Author**: JorgeMMLRodrigues
+* **Email**: jorgemmlrodrigues@gmail.com
+* **GitHub**: https://github.com/JorgeMMLRodrigues
+
+* * **Author**: 
+* **Email**: atefah.hassani@gmail.com
+* **GitHub**: 
+
+* * **Author**:
+* **Email**: michelemontalvo@outlook.com
+* **GitHub**: 
 
 Feel free to open issues or reach out for collaborations. Good luck!
