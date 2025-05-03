@@ -3,7 +3,6 @@
 ## Table of Contents
 
 * [Project Overview](#project-overview)
-* [Repository Structure](#repository-structure)
 * [Data Description](#data-description)
 * [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
 
