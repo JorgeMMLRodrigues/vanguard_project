@@ -155,9 +155,9 @@ Contributions are welcome! Please:
 * **Email**: jorgemmlrodrigues@gmail.com
 * **GitHub**: https://github.com/JorgeMMLRodrigues
 
-* **Author**: 
+* **Author**: Atefah-hassani
 * **Email**: atefah.hassani@gmail.com
-* **GitHub**: 
+* **GitHub**: https://github.com/Atefah-hassani
 
 * **Author**:
 * **Email**: michelemontalvo@outlook.com
