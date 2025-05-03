@@ -17,6 +17,8 @@
 * [Contact](#contact)
 
 ---
+## Link to presentation
+* https://docs.google.com/presentation/d/e/2PACX-1vRQWHi7bUdu1dV2LWiR72G7-gEvNWKh5GUHIZcQvKPq5S5VOL9_4-aetOUXoIleNmdcZ4YCLln5yA_u/pub?start=false&loop=false&delayms=3000&slide=id.p
 
 ## Project Overview
 
