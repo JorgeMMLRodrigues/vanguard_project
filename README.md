@@ -161,8 +161,8 @@ Contributions are welcome! Please:
 * **Email**: atefah.hassani@gmail.com
 * **GitHub**: https://github.com/Atefah-hassani
 
-* **Author**:
+* **Author**: Mic-dev-gif
 * **Email**: michelemontalvo@outlook.com
-* **GitHub**: 
+* **GitHub**: https://github.com/Mic-dev-gif
 
 Feel free to open issues or reach out for collaborations. Good luck!
