@@ -14,7 +14,6 @@
   * [Installation](#installation)
 * [Usage](#usage)
 * [Contributing](#contributing)
-* [License](#license)
 * [Contact](#contact)
 
 ---
@@ -143,12 +142,6 @@ Contributions are welcome! Please:
 3. Commit your changes: `git commit -m "Add new analysis"`.
 4. Push to your branch: `git push origin feature/YourFeature`.
 5. Open a Pull Request.
-
----
-
-## License
-
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
 ---
 
